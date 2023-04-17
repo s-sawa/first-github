@@ -21,13 +21,11 @@
 ## ④質問・疑問・感想、シェアしたいこと等なんでも
 - [質問] フォームのチェックボックスと右隣の文字の高さが合わないのはなぜ？
 - [疑問] ヒーローイメージ上の2つの文章をdivタグで囲わないと二行にならないのが謎でまだ理解できない
-- [感想]　同期やスラックの情報共有のお陰で、最低限のレベルまで作ることができた。
+- [感想] 同期やスラックの情報共有のお陰で、最低限のレベルまで作ることができた。
 - [tips]
 - [参考記事]
 - ImageCreator https://www.bing.com/create?toWww=1&redig=6BB29D5F5A51481ABB14DFD9D92CE940
 - JavaScriptのonclickについて　https://www.tagindex.com/javascript/window/alert1.html
-折りたたむ
-
 
 
 
